@@ -1,0 +1,38 @@
+{
+  "expo": {
+    "name": "MS",
+    "slug": "MS",
+    "version": "1.0.5",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "cover",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "versionCode": 5,
+      "package": "ttpc.MS",
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/icon.png",
+        "backgroundColor": "#ffffff"
+      }
+    },
+    "web": {
+      "favicon": "./assets/icon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "8c8e8cdf-bdf4-4df2-8993-1f7614db109d"
+      }
+    }
+  },
+
+   "react-native-google-mobile-ads": {
+    "android_app_id": "ca-app-pub-4524511699441606~5913413130"
+  }
+}
